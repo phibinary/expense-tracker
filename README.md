@@ -1,2 +1,3 @@
 # React-Practice
-React practice course
+
+React practice course - expense tracker
